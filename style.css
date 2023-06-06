@@ -1,0 +1,25 @@
+.container {
+    background-color: rgb(0, 0, 45);
+    padding-bottom: 0.87rem;
+}
+.containerTitle {
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+.content {
+    background-color: rgb(255, 175, 45);
+    height: 52rem;
+    display: flex;
+    justify-content: center;
+}
+.items {
+    font-size: 2rem;
+}
+.containerItems {
+    display: grid;
+    grid-template-rows: 3rem 8rem 2rem 2rem;
+    background-color: brown;
+}
